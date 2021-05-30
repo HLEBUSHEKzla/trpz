@@ -1,0 +1,18 @@
+C:\Users\lkwat\Desktop\10 - конец 8 лабы\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\lkwat\Desktop\10 - конец 8 лабы\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\lkwat\Desktop\10 - конец 8 лабы\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\lkwat\Desktop\10 - конец 8 лабы\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\lkwat\Desktop\10 - конец 8 лабы\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\lkwat\Desktop\10 - конец 8 лабы\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\lkwat\Desktop\10 - конец 8 лабы\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\lkwat\Desktop\10 - конец 8 лабы\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\lkwat\Desktop\10 - конец 8 лабы\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\lkwat\Desktop\8 lab lev\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\lkwat\Desktop\8 lab lev\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\lkwat\Desktop\8 lab lev\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\lkwat\Desktop\8 lab lev\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\lkwat\Desktop\8 lab lev\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\lkwat\Desktop\8 lab lev\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\lkwat\Desktop\8 lab lev\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\lkwat\Desktop\8 lab lev\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\lkwat\Desktop\8 lab lev\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
